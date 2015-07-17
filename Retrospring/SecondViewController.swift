@@ -2,8 +2,8 @@
 //  SecondViewController.swift
 //  Retrospring
 //
-//  Created by Yuki on 2015/05/15.
-//  Copyright (c) 2015年 Retrospring. All rights reserved.
+//  Created by uppfinnarn on 18/07/15.
+//  Copyright (c) 2015 Retrospring. All rights reserved.
 //
 
 import UIKit
