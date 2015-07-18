@@ -1,5 +1,5 @@
 language: objective-c
-xcode_project: Retrospring.xcodeproj
+xcode_workspace: Retrospring.xcworkspace
 xcode_scheme: Retrospring
 xcode_sdk: iphonesimulator8.1
 notifications:
